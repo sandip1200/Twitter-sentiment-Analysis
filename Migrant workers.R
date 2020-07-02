@@ -12,8 +12,8 @@ library(stringr)
 appname="MigrantLabour"
 
 #Your api key
-api_key="PD1Jv9k7duwJUJOSfco0vk3r3"
-api_secret="hoI8XVSdVIpMd5IaP1kgVkRsEVVaJ4SXIf1O5gOG4A6SGFsmq2"
+api_key="P***********************3"
+api_secret="h****************************2"
 
 ##create twiter_token variable with help of app,consumer_key and consumer_secret
 
@@ -73,7 +73,7 @@ inspect(mw1_corpus1)
 
 
 #add stopwords
-mywords<-c(stopwords("english"),"migrantworkers","help","httpstcogteveemmnl","india","think","rt","íí","get","like","just","yes","know","will",
+mywords<-c(stopwords("english"),"migrantworkers","help","httpstcogteveemmnl","india","think","rt","Ã­Ã­","get","like","just","yes","know","will",
            "httpstcogtlnlivn","good","day","people","httpstcorctfgwgqhq","httpstcowkhacuzfw","amp")
 
 #remove stopwords
